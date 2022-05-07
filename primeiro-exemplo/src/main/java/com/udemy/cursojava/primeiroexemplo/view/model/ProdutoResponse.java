@@ -1,4 +1,4 @@
-package com.udemy.cursojava.view.model;
+package com.udemy.cursojava.primeiroexemplo.view.model;
 
 public class ProdutoResponse {
     private Integer id;

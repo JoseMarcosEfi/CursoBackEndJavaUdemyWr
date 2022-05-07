@@ -1,4 +1,4 @@
-package com.udemy.cursojava.view.controller;
+package com.udemy.cursojava.primeiroexemplo.view.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.stream.Collectors;
 
 import com.udemy.cursojava.primeiroexemplo.services.ProdutoService;
 import com.udemy.cursojava.primeiroexemplo.shared.ProdutoDTO;
-import com.udemy.cursojava.view.model.ProdutoRequest;
-import com.udemy.cursojava.view.model.ProdutoResponse;
+import com.udemy.cursojava.primeiroexemplo.view.model.ProdutoRequest;
+import com.udemy.cursojava.primeiroexemplo.view.model.ProdutoResponse;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
